@@ -1,21 +1,44 @@
+# 📘 Assignment: Hangman Game Challenge
 
-# 🎮 Hangman Game Challenge
+## 🎯 Objective
 
-Build the classic word-guessing game using Python strings, loops, and user input.
+Build a classic Hangman game in Python! You'll practice string manipulation, loops, conditionals, and random selection while creating a fun word-guessing experience.
 
-## � What You'll Build
+## 📝 Tasks
 
-Create a Hangman game where players guess letters to reveal a hidden word before running out of attempts.
+### 🛠️ Task 1: Set Up the Game
+#### Description
+Create a Python program that sets up the Hangman game environment.
+#### Requirements
+Completed program should:
+- Define a list of possible words for the game
+- Randomly select a word for each round
 
-**Skills practiced:** String manipulation, loops, conditionals, random selection
+### 🛠️ Task 2: Player Interaction
+#### Description
+Allow players to guess letters and display their progress.
+#### Requirements
+Completed program should:
+- Accept letter guesses from the player
+- Show the current word progress using underscores (e.g., _ _ _ _)
+- Track and display incorrect guesses remaining
 
-## ✅ Must Have's
+### 🛠️ Task 3: Game End Conditions
+#### Description
+Handle win/lose scenarios and provide feedback.
+#### Requirements
+Completed program should:
+- End the game when the word is guessed or attempts are exhausted
+- Display a friendly win or lose message
 
-Your game must:
-- Randomly select words from a predefined list
-- Accept letter guesses and show current progress (_ _ _ format)
-- Track incorrect guesses remaining
-- End when word is guessed or attempts exhausted
-- Display win/lose messages
+---
 
-## Touched
+**Learning Objectives:**
+- Practice using strings, loops, and conditionals in Python
+- Learn how to manage game state and user input
+- Build confidence by completing a fun coding challenge!
+
+**Difficulty Level:** Beginner
+
+**Encouragement:**
+Take your time and experiment! Every attempt helps you learn. If you get stuck, review your code and try again—you've got this!
